@@ -49,6 +49,7 @@ Note 2 -> The Diagram of the File Organisation is on "Figure 21. Implementation'
 - OpenCV (opencv-python): 4.5.3.56 
 
 4) Instruction to Run the Files
+- Download the dataset from Kaggle before training the models.
 - Observe the Distribution of the Binary and Original Labels by running the file xploratoryDataAnalysis.py 
 - Load and Test the 6 CNNs presented in the report by running TestCNN.py
 - Train and Test the 6 CNNs by running the file TestCNN.py
