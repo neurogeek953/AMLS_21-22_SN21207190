@@ -39,6 +39,7 @@ Task B was solved with the deep learning models in the files
 - LinearClassifiers.py: The LinearClassifiers Class
 - LogisticRegression.py: The LogisticRegressor Class
 - PrincipleComponentAnalysis.py: The PrincipleComponents Class
+- Report_AMLS_21-22 _SN21207190.pdf: The report on the models performance.
 - SVMClassifiers.py: The SupportVectorClassifier Class
 - test.zip: The Test Set
 - TestCNN.py: Test  all 7 CNNs
