@@ -1,4 +1,4 @@
-# AMLS_21-22_SN21207190: MRI-Tumor-Detection
+# MRI-Tumor-Detection (AMLS_21-22_SN21207190)
 
 1) Project Summary
 
